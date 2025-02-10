@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DAO.dll.config
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DAO.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DAO.pdb
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DTO.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DTO.pdb
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DTO.dll.config
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\obj\Debug\QLTV_DAO.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\obj\Debug\QLTV_DAO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\obj\Debug\QLTV_DAO.csproj.Up2Date
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\obj\Debug\QLTV_DAO.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_DAO\obj\Debug\QLTV_DAO.pdb

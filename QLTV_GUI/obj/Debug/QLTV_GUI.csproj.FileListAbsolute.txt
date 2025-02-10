@@ -1,0 +1,402 @@
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_GUI.exe.config
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_GUI.exe
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_GUI.pdb
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.BonusSkins.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Charts.v24.2.Core.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.CodeParser.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Data.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Drawing.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Images.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Office.v24.2.Core.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.PivotGrid.v24.2.Core.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v24.2.Export.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.UI.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraBars.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraGauges.v24.2.Core.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraGrid.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraLayout.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraPrinting.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraRichEdit.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_BUS.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DAO.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DTO.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.DataVisualization.v24.2.Core.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Xpo.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.UI.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraNavBar.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraPivotGrid.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.Extensions.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\System.Memory.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraDiagram.v24.2.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Diagram.v24.2.Core.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\System.Buffers.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_BUS.pdb
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_BUS.dll.config
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DAO.pdb
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DAO.dll.config
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DTO.pdb
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DTO.dll.config
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Charts.v24.2.Core.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Drawing.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Data.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Office.v24.2.Core.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.PivotGrid.v24.2.Core.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.UI.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraBars.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraGauges.v24.2.Core.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraRichEdit.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Xpo.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.UI.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraNavBar.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraPivotGrid.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraDiagram.v24.2.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Diagram.v24.2.Core.xml
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.exe.config
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmADMIN.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmBCTKSachMuonTL.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmBCTKTraTre.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmChangePassword.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmChiTietPM.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmDocGia.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmLoaiDocGia.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmSach.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmTacGia.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThayDoiQuiDinh.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmTheLoai.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemDocGia.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.FrmLogin.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.FrmMain.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemLoaiDocGia.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemPhieuMuon.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemSach.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTacGia.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTheLoai.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTraSach.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTCaNhan.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTMuonSach.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTTraSach.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmDSPhieuPhat.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.Properties.Resources.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.ReportBCTKTraTre.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.ReportMuonTL.resources
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.exe.licenses
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.Up2Date
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.exe
+C:\Users\admin\Downloads\Library_Management-master\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.pdb
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_GUI.exe.config
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_GUI.exe
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_GUI.pdb
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.BonusSkins.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Charts.v24.2.Core.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.CodeParser.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Data.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Drawing.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Images.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Office.v24.2.Core.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.PivotGrid.v24.2.Core.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v24.2.Export.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.UI.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraBars.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraGauges.v24.2.Core.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraGrid.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraLayout.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraPrinting.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraRichEdit.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\EntityFramework.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_BUS.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DAO.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DTO.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.DataVisualization.v24.2.Core.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Xpo.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.UI.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraNavBar.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraPivotGrid.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.Extensions.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Text.Json.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Memory.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraDiagram.v24.2.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Diagram.v24.2.Core.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Buffers.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_BUS.pdb
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_BUS.dll.config
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DAO.pdb
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DAO.dll.config
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DTO.pdb
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DTO.dll.config
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Charts.v24.2.Core.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Drawing.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Data.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Office.v24.2.Core.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.PivotGrid.v24.2.Core.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.UI.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraBars.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraGauges.v24.2.Core.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraRichEdit.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\EntityFramework.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Xpo.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.UI.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraNavBar.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraPivotGrid.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraDiagram.v24.2.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Diagram.v24.2.Core.xml
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.exe.config
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmADMIN.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmBCTKSachMuonTL.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmBCTKTraTre.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmChangePassword.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmChiTietPM.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmDocGia.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmLoaiDocGia.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmSach.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmTacGia.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThayDoiQuiDinh.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmTheLoai.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemDocGia.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.FrmLogin.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.FrmMain.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemLoaiDocGia.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemPhieuMuon.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemSach.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTacGia.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTheLoai.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTraSach.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTCaNhan.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTMuonSach.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTTraSach.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmDSPhieuPhat.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.Properties.Resources.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.ReportBCTKTraTre.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.ReportMuonTL.resources
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.exe.licenses
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.Up2Date
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.exe
+C:\Users\admin\OneDrive\Tài liệu\SQL Server Management Studio\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.pdb
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_GUI.exe.config
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_GUI.exe
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_GUI.pdb
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.BonusSkins.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Charts.v24.2.Core.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.CodeParser.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Data.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Drawing.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Images.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Office.v24.2.Core.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.PivotGrid.v24.2.Core.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v24.2.Export.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.UI.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraBars.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraGauges.v24.2.Core.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraGrid.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraLayout.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraPrinting.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraRichEdit.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\EntityFramework.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_BUS.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DAO.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DTO.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.DataVisualization.v24.2.Core.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Xpo.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.UI.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraNavBar.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraPivotGrid.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.Extensions.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Text.Json.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Memory.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraDiagram.v24.2.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Diagram.v24.2.Core.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Buffers.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_BUS.pdb
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_BUS.dll.config
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DAO.pdb
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DAO.dll.config
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DTO.pdb
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\QLTV_DTO.dll.config
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Charts.v24.2.Core.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Drawing.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Data.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Office.v24.2.Core.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.PivotGrid.v24.2.Core.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Utils.v24.2.UI.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraBars.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraGauges.v24.2.Core.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraRichEdit.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\EntityFramework.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Xpo.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v24.2.UI.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraNavBar.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraPivotGrid.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.XtraDiagram.v24.2.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\bin\Debug\DevExpress.Diagram.v24.2.Core.xml
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.exe.config
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmADMIN.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmBCTKSachMuonTL.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmBCTKTraTre.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmChangePassword.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmChiTietPM.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmDocGia.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmLoaiDocGia.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmSach.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmTacGia.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThayDoiQuiDinh.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmTheLoai.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemDocGia.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.FrmLogin.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.FrmMain.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemLoaiDocGia.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemPhieuMuon.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemSach.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTacGia.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTheLoai.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTraSach.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTCaNhan.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTMuonSach.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTTraSach.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.frmDSPhieuPhat.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.ReportBCTKTraTre.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.ReportMuonTL.resources
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.exe.licenses
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.Up2Date
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.exe
+C:\Users\admin\OneDrive\Máy tính\Quan_Ly_Thu_Vien\QLTV_GUI\obj\Debug\QLTV_GUI.pdb
